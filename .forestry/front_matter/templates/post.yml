@@ -39,4 +39,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/i-am-a-test-post.md
+- _posts/2019-04-02-i-am-a-test-post.md
